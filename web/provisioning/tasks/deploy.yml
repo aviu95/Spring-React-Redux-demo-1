@@ -1,0 +1,6 @@
+
+- name: copying web binaries to web deploy dir
+  copy: src=../../chartbuster.tar.gz dest={{web_deploy_dir}}/ owner={{app_user}} group={{app_group}} mode=0755
+
+- name: extracting the web binaries
+  unarchive: src={{web_deploy_dir}}/chartbuster.tar.gz dest={{web_deploy_dir}}/ owner={{app_user}} group={{app_group}} mode=0755 copy=no

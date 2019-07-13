@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.myCompany.chartBuster.management.iml" filepath="$PROJECT_DIR$/.idea/modules/com.myCompany.chartBuster.management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.myCompany.chartBuster.management.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.myCompany.chartBuster.management.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.myCompany.chartBuster.management.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.myCompany.chartBuster.management.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.myCompany.teammanagement.teammanagement.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.myCompany.teammanagement.teammanagement.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.myCompany.teammanagement.teammanagement.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.myCompany.teammanagement.teammanagement.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/team-management.iml" filepath="$PROJECT_DIR$/.idea/team-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/teammanagement.teammanagement.main.iml" filepath="$PROJECT_DIR$/.idea/modules/teammanagement.teammanagement.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/teammanagement.teammanagement.test.iml" filepath="$PROJECT_DIR$/.idea/modules/teammanagement.teammanagement.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.myCompany.chartBuster.management.main" target="1.8" />
+      <module name="com.myCompany.chartBuster.management.test" target="1.8" />
+      <module name="com.myCompany.chartBuster.teammanagement.main" target="1.8" />
+      <module name="com.myCompany.chartBuster.teammanagement.test" target="1.8" />
+      <module name="com.myCompany.teammanagement.teammanagement.main" target="1.8" />
+      <module name="com.myCompany.teammanagement.teammanagement.test" target="1.8" />
+      <module name="management.management.main" target="1.8" />
+      <module name="management.management.test" target="1.8" />
+      <module name="teammanagement.teammanagement.main" target="1.8" />
+      <module name="teammanagement.teammanagement.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

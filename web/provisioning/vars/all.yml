@@ -1,0 +1,5 @@
+---
+app_name: chartbuster
+app_user: chartbuster
+app_group: chartbuster
+web_deploy_dir: '/{{app_name}}_web'

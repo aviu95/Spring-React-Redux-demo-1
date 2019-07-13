@@ -1,0 +1,44 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+* {
+    font-family: Roboto,Arial,sans-serif;
+}
+
+.chart-list-container {
+    height: 100%;
+    margin: 0px 36px;
+}
+
+
+.card-presentor {
+    border-bottom: 1px solid #dcd8d8;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.card-presentor :hover{
+    background-color: #f7f5fa;
+    cursor: pointer;
+}
+
+.chart-list-info {
+    position: fixed;
+    margin-left: 39px;
+    padding: 10px 39px;
+    width: 400px;
+}
+
+.dont-show {
+    display: none;
+}
+
+.close-side-view {
+    float: right;
+}
+
+.close-side-view :hover {
+    cursor: pointer;
+}

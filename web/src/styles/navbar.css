@@ -1,0 +1,7 @@
+.navbar-title {
+    display: none
+}
+
+.navbar-grow {
+    flex-grow: 1;
+}

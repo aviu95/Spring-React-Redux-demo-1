@@ -1,0 +1,37 @@
+- request:
+    url: ^/team-management/api/team
+    method: GET
+  response:
+    body: >
+      [
+        {
+          "id": 3,
+          "name": "string",
+          "rank": 0
+        },
+        {
+          "id": 4,
+          "name": "Sharks",
+          "rank": 2
+        }
+      ]
+    status: 200
+
+- request:
+    url: ^/team-management/api/player/(\d)
+    method: GET
+  response:
+    body: >
+      [
+        {
+          "id": 3,
+          "name": "mom",
+          "playerType": "BATSMAN"
+        },
+        {
+          "id": 1,
+          "name": "Avi",
+          "playerType": "BATSMAN"
+        }
+      ]
+    status: 200

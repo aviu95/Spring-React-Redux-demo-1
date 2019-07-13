@@ -1,0 +1,15 @@
+[35mLoaded: GET ^/team-management/api/team[0m
+[35mLoaded: GET ^/team-management/api/player/(\d)[0m
+[34m
+Quit: ctrl-c
+[0m
+[1m[30mStubs portal running at https://0.0.0.0:7443[0m
+[1m[30mStubs portal running at http://0.0.0.0:8186[0m
+[1m[30mAdmin portal running at http://0.0.0.0:5558[0m
+[36m13:07:37 -> GET [stubs]/team-management/api/player/1[0m
+[32m13:07:37 <- 200 [stubs]/team-management/api/player/1 OK[0m
+[36m13:07:38 -> GET [stubs]/team-management/api/player/2[0m
+[32m13:07:38 <- 200 [stubs]/team-management/api/player/2 OK[0m
+[36m13:07:47 -> GET [stubs]/team-management/api/tea,[0m
+[36m13:07:48 -> GET [stubs]/team-management/api/team[0m
+[32m13:07:48 <- 200 [stubs]/team-management/api/team OK[0m
